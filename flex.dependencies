@@ -2,16 +2,16 @@
 
   {
     "remote" : "github",
-    "repository": "ResurrectionRemix/android_device_google_sprout-common",
+    "repository": "varunchitre15/android_device_google_sprout-common",
     "target_path": "device/google/sprout-common",
-    "revision" :"lollipop5.1"
+    "revision" :"cm-12.1"
   },
   {
     
     "remote":"github",
-    "repository": "OwnROM-Dev/OwnKernel-sprout",
+    "repository": "varunchitre15/android_kernel_mediatek_sprout",
     "target_path": "kernel/mediatek/sprout",
-    "revision":"lp"
+    "revision":"cm-12.1"
   },
   {
     "remote":"github",
