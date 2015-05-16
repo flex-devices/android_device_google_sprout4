@@ -1,5 +1,4 @@
 [
-
   {
     "remote" : "github",
     "repository": "varunchitre15/android_device_google_sprout-common",
@@ -20,10 +19,8 @@
     "target_path":"vendor/google"
   },
   {
-    "remote":"github",
-    "repository":"CyanogenMod/android_package_apps_FMRadio",
-    "revision":"cm-12.1",
+    "remote":"cm",
+    "repository":"android_package_apps_FMRadio",
     "target_path":"packages/apps/FMRadio"
   }
- 
-]
+ ]
