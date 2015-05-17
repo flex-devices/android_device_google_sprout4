@@ -21,6 +21,7 @@
   {
     "remote":"cm",
     "repository":"android_package_apps_FMRadio",
-    "target_path":"packages/apps/FMRadio"
+    "target_path":"packages/apps/FMRadio",
+    "revision": "cm-12.1"
   }
  ]
