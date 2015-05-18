@@ -17,11 +17,5 @@
     "repository":"varunchitre15/proprietary_vendor_google",
     "revision":"cm-12.1",
     "target_path":"vendor/google"
-  },
-  {
-    "remote":"cm",
-    "repository":"android_package_apps_FMRadio",
-    "target_path":"packages/apps/FMRadio",
-    "revision": "cm-12.1"
   }
  ]
