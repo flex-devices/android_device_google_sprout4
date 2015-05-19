@@ -1,7 +1,7 @@
 [
   {
     "remote" : "github",
-    "repository": "varunchitre15/android_device_google_sprout-common",
+    "repository": "flex-devices/android_device_google_sprout-common",
     "target_path": "device/google/sprout-common",
     "revision" :"cm-12.1"
   },
